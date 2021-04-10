@@ -1,6 +1,6 @@
 # MIDAS-IIITD-Task
 
-###Task 3: NLP
+### Task 3: NLP
 
 Use given dataset to build a model to predict the category using description. Write code in python. Using Jupyter notebook is encouraged. 
 Clean this data, In the product category tree separate all the categories, figure out the primary category, and then use the model to predict this.
@@ -16,13 +16,19 @@ If you want to remove some categories for lack of data, you are also free to do 
 2) Description should be the main feature. Feel free to use other features if it'd improve the model.
 3) Include a Readme.pdf file with approach in detail and report the accuracy and what models were used.
 
-###Development environment
+### Development environment
 
 *Install with conda*
-'conda install -c conda-forge jupyterlab'
+'''
+{conda install -c conda-forge jupyterlab}
+'''
 
 *Run JupyterLab*
-'jupyter-lab'
+'''
+{jupyter-lab}
+'''
 
 *Jupyter Notebook*
-'conda install -c conda-forge notebook'
+'''
+{conda install -c conda-forge notebook}
+'''
