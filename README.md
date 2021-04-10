@@ -20,7 +20,7 @@ jupyter-lab
 conda install -c conda-forge notebook
 ```
 
-### Task 3: NLP
+### NLP Task
 
 Use given dataset to build a model to predict the category using description. Write code in python. Using Jupyter notebook is encouraged. 
 Clean this data, In the product category tree separate all the categories, figure out the primary category, and then use the model to predict this.
