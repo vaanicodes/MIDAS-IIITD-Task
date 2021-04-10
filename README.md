@@ -30,7 +30,7 @@ conda install -c conda-forge jupyterlab
 jupyter-lab
 ```
 
-*Jupyter Notebook*
+*Use Jupyter Notebook*
 
 ```
 conda install -c conda-forge notebook
