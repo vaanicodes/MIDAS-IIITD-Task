@@ -19,16 +19,10 @@ If you want to remove some categories for lack of data, you are also free to do 
 ### Development environment
 
 *Install with conda*
-'''
-{conda install -c conda-forge jupyterlab}
-'''
+	`conda install -c conda-forge jupyterlab`
 
 *Run JupyterLab*
-'''
-{jupyter-lab}
-'''
+`jupyter-lab`
 
 *Jupyter Notebook*
-'''
-{conda install -c conda-forge notebook}
-'''
+`conda install -c conda-forge notebook`
